@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fsvpwatch.dokuwell.com/sitemap.xml
