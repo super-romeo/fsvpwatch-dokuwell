@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://fsvpwatch.dokuwell.com/sitemap.xml
+Sitemap: https://fsvpwatch.dokuline.com/sitemap.xml
